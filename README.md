@@ -12,4 +12,5 @@ Password :admin
 OOP
 PDO Connection
 And no Framework
+Ajax
 ```
